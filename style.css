@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #00008B;
+}
+
+h2 {
+    background-color: #87CEFA;
+    font-size: 20px;
+    color: #00008B;
+}
+
+a {
+    color: #191996;
+    text-decoration: none;
+}
+
+footer p {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(68, 68, 68);
+    font-size: 13px;
+}
+
